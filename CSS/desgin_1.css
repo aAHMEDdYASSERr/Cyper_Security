@@ -257,6 +257,7 @@ margin-top: 25px;
     flex-basis: 60px;
 
 }
+.Skills .container .Skills-content .col:last-child{margin-top: 55px;}
 .Skills .container .Skills-content{display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 30px;
@@ -270,7 +271,7 @@ margin-top: 25px;
 
 .Skills .container .Skills-content .col{
     /* width: 250px; */
-    padding: 20px;
+    padding: 30px;
     /* display: flex;
     flex-direction: column; */
 
@@ -374,7 +375,7 @@ padding-bottom: calc(var(--section-padding) + 60px);
                 border:solid #010980d7;}
             
             
-@media(max-width:767px){.About .container .About-content img{display: none;}}
+@media(max-width:767px){.About .container .About-content {display: grid}}
 
 
 /* 
