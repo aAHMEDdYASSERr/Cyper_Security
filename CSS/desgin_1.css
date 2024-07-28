@@ -57,6 +57,7 @@ margin-top: -20px;
 .header {
     position: fixed;
     padding: 20px;
+    paddin-top:10px;
     z-index: 5;
     width: 100%;
     background-color: white;
