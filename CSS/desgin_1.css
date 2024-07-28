@@ -428,3 +428,6 @@ background-color: #6b0909;}
     font-size: 30px;
     font-weight: 800;
 }
+.Contact .container .Contact-content .text i:hover{
+    font-size:60px;
+}
